@@ -1,0 +1,12 @@
+# Godot editor, local engine and generated packages
+.godot/
+Godot.app/
+*.zip
+.DS_Store
+web-swing-demo/preview.png
+web-swing-demo/preview.png.import
+
+# Local configuration
+.env
+.env.*
+!.env.example
